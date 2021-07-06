@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. (Hons) in Zoology and Marine Biology, University of Queensland, 2004
+* Ph.D in Marine Molecular Parasitology, University of Queensland, 2017
+* GradCert (with Distinction) Geographic Information Systems, Curtin University, 2017
 
 Work experience
 ======
