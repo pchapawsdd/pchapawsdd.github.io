@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Phoebe Chapman's web page"
+title                    : "Phoebe A. Chapman"
 title_separator          : "-"
 name                     : &name "Phoebe Chapman"
 description              : &description "Postdoctoral Research Fellow at the University of Otago"
@@ -83,12 +83,12 @@ author:
   name             : "Phoebe Chapman"
   avatar           : "profile.png"
   bio              : "Postdoctoral Research Fellow at the University of Otago"
-  location         : "University of Otago, Department of Zoology"
+  location         : "University of Otago, Dept. Marine Science"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    : "https://scholar.google.nl/citations?user=H3vVyNkAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Phoebe-Chapman-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/phoebeachapman/"
+  orcid            : "https://orcid.org/0000-0002-3303-9134"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@PhoebeAChapman"
   vine             :
   weibo            :
   xing             :
