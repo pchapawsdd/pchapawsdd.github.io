@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Phoebe A. Chapman"
 description              : &description "Postdoctoral Research Fellow at the University of Otago, Dept. Marine Science"
