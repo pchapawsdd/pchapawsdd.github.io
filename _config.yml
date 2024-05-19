@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Phoebe A. Chapman"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Phoebe Chapman"
-description              : &description "Postdoctoral Research Fellow at the University of Otago, Department of Marine Science"
+name                     : &name "Phoebe A. Chapman"
+description              : &description "Postdoctoral Research Fellow at the University of Otago, Dept. Marine Science"
 url                      : https://pchapawsdd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/pchapawsdd/pchapawsdd.github.io/"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Phoebe Chapman"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow at the University of Otago, Department of Marine Science"
+  bio              : "Postdoctoral Research Fellow at the University of Otago, Dept. Marine Science"
   location         : "University of Otago"
   employer         :
   pubmed           :
